@@ -3,5 +3,5 @@ This project scrapes the web to get the stock details of 100 largest companies t
 
 ### Tools used:  
   * Python/jupyter Notebook  
-  * Python requests package to download the web page  
-  * Python BeautifulSoup package to parse the html page downloaded with the requests package  
+  * Python `requests` package to download the web page  
+  * Python `BeautifulSoup` package to parse the html page downloaded with the requests package  
