@@ -1,4 +1,4 @@
-# web-scraping-project  
+# Scraping top companies stock details from companiesmarketcap & Yahoo finance
 This project scrapes the web to get the stock details of 100 largest companies trading in US. The stock names are obtained from companiesmarketcap.com website. The stock details for each stock is obtained from 'finance.yahoo.com'.  
 
 ### Tools used:  
